@@ -1,0 +1,7 @@
+:root {
+    --main_background_color: #271D67;
+    --defaut_color: #A894FF;
+}
+body {
+    background-color: var(--main_background_color);
+}

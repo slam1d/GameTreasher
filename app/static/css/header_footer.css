@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0;
+}
+:root {
+    --main_background_color: #271D67;
+    --defaut_color: #A894FF;
+}
+.header{
+    
+}
