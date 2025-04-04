@@ -1,7 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0;
+    color: var(--defaiult_text);
+}
+
 :root {
     --main_background_color: #271D67;
     --defaut_color: #A894FF;
+    --defaiult_text: white;
+
 }
 body {
+    padding: 0% 8%;
     background-color: var(--main_background_color);
+    background-image: 
+        linear-gradient(rgba(45, 33, 146, 0.7)), 
+        url('../../static/icons/main_page.png');
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
 }
+
